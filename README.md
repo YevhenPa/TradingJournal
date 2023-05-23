@@ -1,2 +1,2 @@
-# TradingJournal1
+# TradingJournal
 This project created with Java, Spring, MySQL and React JS
